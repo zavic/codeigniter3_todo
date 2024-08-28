@@ -25,6 +25,7 @@ The To-Do Application is a straightforward task management tool designed to help
 
   ```bash
   git clone https://github.com/zavic/codeigniter3_todo.git
+  ```
 
 2. **Change Config**
 
